@@ -1,0 +1,13 @@
+name: DzavorkaSystem
+version: '${project.version}'
+main: sk.ibadtomas.dzavorkasystem.MainClass
+api-version: 1.19
+commands:
+  gmc:
+    description: gmc
+  gms:
+    description: gms
+  gmsp:
+    description: gmsp
+  buildmode:
+    description: buildmode
